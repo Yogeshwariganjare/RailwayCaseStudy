@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "spring.application.fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.fetch-registry'"
+  },
+  {
+    "name": "spring.application.register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.register-with-eureka'"
+  },
+  {
+    "name": "spring.application.client",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.client'"
+  },
+  {
+    "name": "spring.application.eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.eureka'"
+  },
+  {
+    "name": "spring.application.service-url.default-zone",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.service-url.default-zone'"
+  },
+  {
+    "name": "spring.application.instance",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.instance'"
+  },
+  {
+    "name": "spring.eureka.client",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.client'"
+  },
+  {
+    "name": "spring.eureka.register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.register-with-eureka'"
+  },
+  {
+    "name": "spring.eureka.fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.fetch-registry'"
+  },
+  {
+    "name": "spring.eureka.service-url.default-zone",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.service-url.default-zone'"
+  },
+  {
+    "name": "spring.eureka.instance",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.instance'"
+  },
+  {
+    "name": "spring.eureka.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.hostname'"
+  }
+]}
